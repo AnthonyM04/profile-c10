@@ -1,0 +1,36 @@
+body {
+  background-color: #ccc;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+.container {
+ padding: 40px 
+}
+
+.carousel-container {
+  padding: 15px;
+} 
+
+.quote-container p {
+  font-size: clamp(23px, 4vw, 26px);
+  font-weight: 700;
+}
+
+.quote-container q {
+  font-size: 105%;
+}
+
+.grid-container {
+  background-color:salmon;
+}
+
+.grid-container h2 {
+  color: white;
+}
